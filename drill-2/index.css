@@ -1,0 +1,66 @@
+#section-one {
+    border: black;
+    border-style: solid;
+    border-width: 2px;
+    height: 240px;
+    display: flex;
+    align-items: flex-end;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+
+#purple {
+    background-color: purple;
+    width: 25px;
+    height: 100px;
+}
+
+#green {
+    background-color: green;
+    width: 300px;
+    height: 220px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#blue{
+    background-color: lightblue;
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+}
+
+#section-two {
+    border: black;
+    border-width: 2px;
+    border-style: dotted;
+    height: 240px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#off-white {
+    background-color: bisque;
+    height: 180px;
+    width: 80vw;
+    box-shadow: 10px 10px 7px black;
+}
+
+#hello-friends {
+    border: lightgrey;
+    border-width: 1px;
+    border-style: solid;
+    color: purple;
+    font-weight: bold;
+    letter-spacing: 2px;
+    height: 30vw;  
+    width: 55vw;  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-left: 20vw;
+    box-shadow: 4px 4px 3px lightgray;
+}

@@ -1,0 +1,24 @@
+#top-box {
+    background-color: darkslategrey;
+    height: 20vw;
+}
+
+#mid-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    z-index: 2;
+}
+
+.mid-boxes {
+    background-color: grey;
+    width: 15vw;
+    height: 90vw;
+}
+
+.bottom-box {
+    background-color: black;
+    width: 100vw;
+    height: 10vw;
+    z-index: 1;
+}
